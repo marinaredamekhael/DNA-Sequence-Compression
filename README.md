@@ -1,7 +1,7 @@
 # Application of Discrete Mathematics in DNA Sequence Compression
 
 ## Overview
-This project, guided by Dr. Mohamed Abd Elaziz, explores the use of Discrete Mathematics in compressing DNA sequences, addressing storage and transmission challenges in genetics.
+This project explores the use of Discrete Mathematics in compressing DNA sequences, addressing storage and transmission challenges in genetics.
 
 ## Key Aspects
 - **DNA Complexity**: Analyzes the structure and information encoding in DNA sequences.
